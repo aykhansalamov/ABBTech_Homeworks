@@ -9,6 +9,7 @@ public class GuessTheNumber {
     static int selected;
     static int entered;
     static String name;
+    
 
     static int[] allNumbers = new int[100];
     static int i = 0;
